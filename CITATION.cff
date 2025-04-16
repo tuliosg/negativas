@@ -17,7 +17,7 @@ keywords:
   - "speech data"
   - "computational linguistics"
 preferred-citation:
-  type: article
+  type: generic
   authors:
     - family-names: "de Gois"
       given-names: "Túlio Sousa"
