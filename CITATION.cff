@@ -25,8 +25,8 @@ preferred-citation:
       given-names: "Paloma Batista"
   doi: "10.48550/arXiv.2504.04275"
   title: "negativas: a prototype for searching and classifying sentential negation in speech data"
-  year= "2025",
-  eprint="2504.04275",
-  archivePrefix="arXiv",
-  primaryClass="cs.CL",
-  url="https://arxiv.org/abs/2504.04275"
+  year: "2025",
+  eprint:"2504.04275",
+  archivePrefix:"arXiv",
+  primaryClass:"cs.CL",
+  url:"https://arxiv.org/abs/2504.04275"
