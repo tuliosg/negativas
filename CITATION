@@ -1,8 +1,0 @@
-@misc{gois2025negativas,
-    title={negativas: a prototype for searching and classifying sentential negation in speech data},
-    author={Túlio Sousa de Gois and Paloma Batista Cardoso},
-    year={2025},
-    eprint={2504.04275},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
-}

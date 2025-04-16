@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "de Gois"
+    given-names: "Túlio Sousa"
+  - family-names: "Cardoso"
+    given-names: "Paloma Batista"
+title: "negativas: a prototype for searching and classifying sentential negation in speech data"
+version: 1.0.0
+date-released: 2025
+type: software
+repository-code: "https://github.com/tuliosg/negativas"
+abstract: "A prototype for searching and classifying sentential negation in speech data"
+keywords:
+  - "natural language processing"
+  - "sentential negation"
+  - "speech data"
+  - "computational linguistics"
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Gois"
+      given-names: "Túlio Sousa"
+    - family-names: "Cardoso"
+      given-names: "Paloma Batista"
+  title: "negativas: a prototype for searching and classifying sentential negation in speech data"
+  year: 2025
+  identifiers:
+    - type: "arXiv"
+      value: "2504.04275"
+      description: "arXiv preprint"
+  publisher: "arXiv"
+  notes: "cs.CL"
