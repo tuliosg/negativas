@@ -19,15 +19,14 @@ keywords:
 preferred-citation:
   type: generic
   authors:
-    - family-names: "Gois"
+    - family-names: "de Gois"
       given-names: "Túlio Sousa"
     - family-names: "Cardoso"
       given-names: "Paloma Batista"
+  doi: "10.48550/arXiv.2504.04275"
   title: "negativas: a prototype for searching and classifying sentential negation in speech data"
-  year: 2025
-  identifiers:
-    - type: "arXiv"
-      value: "2504.04275"
-      description: "arXiv preprint"
-  publisher: "arXiv"
-  notes: "cs.CL"
+  year= "2025",
+  eprint="2504.04275",
+  archivePrefix="arXiv",
+  primaryClass="cs.CL",
+  url="https://arxiv.org/abs/2504.04275"
