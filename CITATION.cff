@@ -17,7 +17,7 @@ keywords:
   - "speech data"
   - "computational linguistics"
 preferred-citation:
-  type: generic
+  type: article
   authors:
     - family-names: "de Gois"
       given-names: "Túlio Sousa"
@@ -25,8 +25,10 @@ preferred-citation:
       given-names: "Paloma Batista"
   doi: "10.48550/arXiv.2504.04275"
   title: "negativas: a prototype for searching and classifying sentential negation in speech data"
-  year: "2025",
-  eprint:"2504.04275",
-  archivePrefix:"arXiv",
-  primaryClass:"cs.CL",
-  url:"https://arxiv.org/abs/2504.04275"
+  year: 2025
+  url: "https://arxiv.org/abs/2504.04275"
+  identifiers:
+    - type: other
+      value: "eprint:2504.04275"
+      description: "arXiv identifier"
+  notes: "arXiv:2504.04275 [cs.CL]"
